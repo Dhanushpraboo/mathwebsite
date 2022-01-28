@@ -216,7 +216,7 @@ Publish the website in the given URL.
     <footer> <p class="by"><B>Developed by : S.Dhanush Praboo </B></p></footer>
 </body>
 </html>
-
+~~~
 ## OUTPUT:
 
 ![Area](maths1.png)
